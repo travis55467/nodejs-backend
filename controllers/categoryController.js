@@ -1,5 +1,5 @@
 
-const Category = require("../models/Category");
+const Category = require("../models/category");
 
 const getCategories = async (req, res) => {
   try {
